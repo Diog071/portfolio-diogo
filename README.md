@@ -30,18 +30,6 @@ Este portfólio foi desenvolvido com foco em um design limpo, responsivo e de f�
 
 Este projeto faz parte da construção do meu portfólio profissional e será atualizado constantemente com novos projetos, tecnologias e melhorias de interface.
 
-## 📷 Preview
-
-> Em breve será adicionada uma imagem do projeto.
-
-## 📌 Próximas Melhorias
-
-- [ ] Adicionar projetos em JavaScript
-- [ ] Implementar modo escuro
-- [ ] Criar formulário de contato
-- [ ] Integrar com Python (Flask)
-- [ ] Melhorar animações e experiência do usuário
-
 ## 👨‍💻 Autor
 
 **Diogo Araujo**
